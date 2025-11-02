@@ -1,1 +1,29 @@
-building_id,flat_no,owner_or_tenant,avg_monthly_income,education_level,num_occupants,last_payment_date,maintenance_due_amountB001,A-101,Owner,High,Post-Graduate,4,2025-10-05,0B001,A-102,Tenant,Medium,Graduate,3,2025-10-07,0B001,B-201,Owner,High,Graduate,5,2025-10-03,0B001,B-202,Owner,Medium,High School,2,2025-09-05,5000B002,101,Owner,Medium,Graduate,4,2025-10-01,0B002,102,Owner,Low,High School,3,2025-08-10,8000B002,201,Tenant,Medium,Graduate,2,2025-10-05,0B002,202,Owner,Medium,Post-Graduate,4,2025-10-02,0B003,P-1001,Owner,High,Post-Graduate,5,2025-10-10,0B003,P-1002,Owner,High,Post-Graduate,4,2025-10-08,0B003,Q-1201,Tenant,Medium,Graduate,3,2025-10-01,0B003,Q-1202,Owner,High,Graduate,4,2025-10-06,0B004,A-301,Owner,Medium,Graduate,4,2025-10-05,0B004,A-302,Tenant,Medium,High School,3,2025-07-01,25000B004,B-401,Owner,High,Graduate,5,2025-10-03,0B004,B-402,Owner,Low,High School,2,2025-09-15,5000B005,101,Owner,High,Post-Graduate,3,2025-10-02,0B005,102,Owner,Medium,Graduate,4,2025-10-01,0B005,201,Owner,High,Graduate,2,2025-10-04,0B006,A-10,Owner,Low,High School,4,2025-06-01,12000B006,A-20,Tenant,Low,High School,3,2025-09-05,4000B006,B-10,Owner,Medium,Graduate,5,2025-10-01,0B007,C-501,Owner,High,Graduate,4,2025-10-05,0B007,C-502,Tenant,Medium,Graduate,2,2025-10-03,0B007,D-601,Owner,Medium,High School,3,2025-08-01,10000B008,10,Owner,Low,High School,4,2025-01-01,56000B008,20,Owner,Low,High School,3,2025-10-01,0B008,30,Tenant,Low,Graduate,2,2025-07-10,28000
+building_id,flat_no,owner_or_tenant,avg_monthly_income,education_level,num_occupants,last_payment_date,maintenance_due_amount
+B001,A-101,Owner,High,Post-Graduate,4,2025-10-05,0
+B001,A-102,Tenant,Medium,Graduate,3,2025-10-07,0
+B001,B-201,Owner,High,Graduate,5,2025-10-03,0
+B001,B-202,Owner,Medium,High School,2,2025-09-05,5000
+B002,101,Owner,Medium,Graduate,4,2025-10-01,0
+B002,102,Owner,Low,High School,3,2025-08-10,8000
+B002,201,Tenant,Medium,Graduate,2,2025-10-05,0
+B002,202,Owner,Medium,Post-Graduate,4,2025-10-02,0
+B003,P-1001,Owner,High,Post-Graduate,5,2025-10-10,0
+B003,P-1002,Owner,High,Post-Graduate,4,2025-10-08,0
+B003,Q-1201,Tenant,Medium,Graduate,3,2025-10-01,0
+B003,Q-1202,Owner,High,Graduate,4,2025-10-06,0
+B004,A-301,Owner,Medium,Graduate,4,2025-10-05,0
+B004,A-302,Tenant,Medium,High School,3,2025-07-01,25000
+B004,B-401,Owner,High,Graduate,5,2025-10-03,0
+B004,B-402,Owner,Low,High School,2,2025-09-15,5000
+B005,101,Owner,High,Post-Graduate,3,2025-10-02,0
+B005,102,Owner,Medium,Graduate,4,2025-10-01,0
+B005,201,Owner,High,Graduate,2,2025-10-04,0
+B006,A-10,Owner,Low,High School,4,2025-06-01,12000
+B006,A-20,Tenant,Low,High School,3,2025-09-05,4000
+B006,B-10,Owner,Medium,Graduate,5,2025-10-01,0
+B007,C-501,Owner,High,Graduate,4,2025-10-05,0
+B007,C-502,Tenant,Medium,Graduate,2,2025-10-03,0
+B007,D-601,Owner,Medium,High School,3,2025-08-01,10000
+B008,10,Owner,Low,High School,4,2025-01-01,56000
+B008,20,Owner,Low,High School,3,2025-10-01,0
+B008,30,Tenant,Low,Graduate,2,2025-07-10,28000
