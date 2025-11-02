@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "effective_date": "2024-01-01",
+  "rules": [
+    {
+      "id": "FIRE_SAFETY",
+      "description": "Fire safety inspection must be conducted within the last 12 months.",
+      "category": "Safety"
+    },
+    {
+      "id": "STRUCT_AUDIT",
+      "description": "Structural audit must be conducted (every 3 years for buildings <15 yrs, annually for >15 yrs).",
+      "category": "Structural"
+    },
+    {
+      "id": "RESERVE_FUND",
+      "description": "Reserve fund ratio (Total Funds / Required Reserve) must be >= 1.0.",
+      "category": "Financial",
+      "parameters": {
+        "min_ratio": 1.0
+      }
+    },
+    {
+      "id": "WASTE_SEGREGATION",
+      "description": "Waste segregation (Wet/Dry) practices must be implemented.",
+      "category": "Operations"
+    },
+    {
+      "id": "SEWAGE_SYSTEM",
+      "description": "Sewage Treatment Plant (STP) or system must be NMMC approved and operational.",
+      "category": "Infrastructure"
+    }
+  ]
+}
